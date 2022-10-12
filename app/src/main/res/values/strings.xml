@@ -1,3 +1,10 @@
 <resources>
     <string name="app_name">My Application</string>
+    <string-array name="arr_prodi">
+        <item>Informatika</item>
+        <item>Sistem Informasi</item>
+        <item>Manajemen</item>
+        <item>Teknik Elektro</item>
+        <item>Manajemen Informatika</item>
+    </string-array>
 </resources>
